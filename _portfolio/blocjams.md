@@ -6,4 +6,5 @@ thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/20
 short-description: BlocJams for iOS is awesome!
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+BlocJams is one of my earliest web develprojects and my first working with AngularJS. Although I started this project by following a tutorial, by the end I was implementing my own solutions and improvising small features to make the user experience flow better. I love BlocJams because it stands as playground of sorts, offering a stable base that I can experiment on and practice improving.
+
