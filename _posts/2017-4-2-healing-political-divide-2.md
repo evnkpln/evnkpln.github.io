@@ -1,6 +1,6 @@
 ---
 layout: post
-title: H
+title: Healing the Political Divide- part 2
 ---
 In my [last post](insertlinktoposthere) I outlined an issue of a growing divide in US politics and the role of technology within it. Today I am going to sketch out some ideas for web apps aimed at addressing this issue.
 A primary challenge in fostering discourse between hostile parties is a lack of shared language. A quick perusal of [partisan](http://occupydemocrats.com/) news [websites](http://www.redstate.com/) reveals that articles are adressed directly to their base. These articles take for granted that anyone reading it will harbor certain opinions and will be familiar with certain partisan ideologies, thus using a shorthand to refer to them and skipping justifications of potentially controversial ideas. This also tends to create a shared vocabularly that may be either incomprehensible or inflammatory to readers on the other side of the field.
